@@ -1,0 +1,26 @@
+
+.contact tr{
+  height: 7rem;
+
+}
+
+.contact th{
+  width: 150px;
+  text-align: right;
+}
+.contact td{
+
+  width: 480px;
+  padding-left: 10px;
+}
+.con1{
+  width: 480px;
+}
+.submit-button {
+  font-size: 3rem;
+  color: white;
+  padding: 10px;
+  background-color: #008B8B;
+  position: relative;
+  left:50%;
+}
