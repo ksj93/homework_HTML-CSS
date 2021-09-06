@@ -1,26 +1,31 @@
-
-.contact tr{
-  height: 7rem;
-
+table{
+  width: 100%;
 }
-
+tr{
+  height: 7rem;
+  width: 640px;
+}
 .contact th{
   width: 150px;
   text-align: right;
-}
-.contact td{
-
-  width: 480px;
-  padding-left: 10px;
+  padding: 0px;
 }
 .con1{
-  width: 480px;
+  width: 476px;
+  padding: 0px;
+  margin-left: 10px;
 }
 .submit-button {
   font-size: 3rem;
   color: white;
-  padding: 10px;
+  padding:10px;
   background-color: #008B8B;
   position: relative;
   left:50%;
+  transform: translateX(-50%);
+  border: 0px;
+
+}
+.submit-button:hover{
+  opacity: 0.5;
 }

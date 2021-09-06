@@ -97,8 +97,8 @@ li{
 .footer{
   background-color: #4d4d4d;
   height: 100px;
-  width: 100%;
-  position: absolute;
+  width: 980px;
+  position: fixed;
   bottom: 0;
   display: table;
 }
